@@ -1,2 +1,2 @@
 # linked-list
-Full Singly Linked List along with Insert, Delete, Udpate, about the singly Linked List
+Full Singly Linked List along with Insert, Delete, Udpate, Add about the singly Linked List
